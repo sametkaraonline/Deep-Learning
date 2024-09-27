@@ -1,5 +1,5 @@
-# Deep-Learning
-Deep learning Ssudy for casting products.
+# Deep learning Study for casting product
+Deep learning Study for casting products.
 
 
 Dataset: https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
